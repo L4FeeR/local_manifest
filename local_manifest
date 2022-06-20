@@ -2,7 +2,7 @@
 <manifest>
   <remote name="L4FeeR" fetch="https://github.com/L4FeeR" />
 
-  <project name="device_xiaomi_tulip" path="device/xiaomi/tulip" remote="L4FeeR" revision="snow" />
+  <project name="device_xiaomi_tulip" path="device/xiaomi/tulip-1" remote="L4FeeR" revision="snow" />
   <project name="vendor_xiaomi_tulip" path="vendor/xiaomi/tulip" remote="L4FeeR" revision="rebase" />
   <project name="crdroidandroid/android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="github" revision="12.1" />
   <!-- use prelude clang -->
